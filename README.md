@@ -1,2 +1,2 @@
-# Simple-Auction-from-solidity
-MAKE BY  ##AmiraliZandirad
+# Simple-Auction-from-solidity 
+MAKE BY  AmiraliZandirad
